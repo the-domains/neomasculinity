@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2956989
+color:
+  saturation: 0.2234475
+  lightness: 0.4022538
+  brandStrength: 0
+  rhythmicContrast: 0.2168459
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: 'Neomasculinity '
