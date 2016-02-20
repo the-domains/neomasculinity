@@ -1,14 +1,28 @@
-layout_spectrum: 1
+name: 'Neomasculinity '
+favicon: null
+layout_spectrum: 0.90917
 typography_spectrum: 0.2956989
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2234475
-  lightness: 0.4022538
-  brandStrength: 0
-  rhythmicContrast: 0.2168459
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: 'Neomasculinity '
+  brandStrength: 0.125
+  lightness: 0.4022538
+  saturation: 0.2234475
+  rhythmicContrast: 0.2168459
+purpose: []
