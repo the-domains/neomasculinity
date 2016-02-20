@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Neomasculinity ]]></title>
         <description><![CDATA[Neomasculinity ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/neomasculinity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 17:20:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 20:25:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neomasculinity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cc4f95f-51df-44a4-86a8-e6cb4767abb6.JPG">]]></description>
-            <link>undefined3d71f0f0-ef49-4690-8dbc-70e4eb00dc09/index.html</link>
+            <link>https://thegrid.ai/neomasculinity/3d71f0f0-ef49-4690-8dbc-70e4eb00dc09/index.html</link>
             <guid isPermaLink="false">3d71f0f0-ef49-4690-8dbc-70e4eb00dc09</guid>
-            <pubDate>Sat, 20 Feb 2016 17:20:28 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 20:24:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
