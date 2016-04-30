@@ -1,40 +1,40 @@
-name: 'Neomasculinity '
-favicon: null
-layout_spectrum: 0.39675
-typography_spectrum: 0.32859
+layout_spectrum: 0.90681
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.5625
+  brandStrength: 0.3125
+  lightness: 0.4103943
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3125
-  lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.6200717
+typography_spectrum: 0.32859
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: 'Neomasculinity '
