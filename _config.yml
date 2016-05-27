@@ -1,5 +1,4 @@
-favicon: null
-name: 'Neomasculinity '
+layout_spectrum: 0.3422939
 opengraph:
   image: null
   type: null
@@ -10,31 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.5625
+  saturation: 0.6362007
   brandStrength: 0.7992831
-  rhythmicContrast: 0.6200717
+  lightness: 0.6505376
   brandColors:
-    - '#FFFFFF'
-    - '#1A1112'
-    - '#B8813E'
-    - '#5E5C67'
-    - '#CEC4C2'
-  lightness: 0.4103943
+    - '#F9F7F8'
+    - '#191E3C'
+    - '#615559'
+    - '#8E8389'
+    - '#BAAEB2'
+  rhythmicContrast: 0.6200717
 typography_spectrum: 0.32859
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.3422939
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: 'Neomasculinity '
